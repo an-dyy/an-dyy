@@ -1,4 +1,3 @@
+![stats](https://github-readme-stats.vercel.app/api?username=an-dyy&show_icons=true&theme=dark&count_private=true)
 
-[![](https://raw.githubusercontent.com/an-dyy/an-dyy/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/an-dyy/an-dyy/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/an-dyy/an-dyy/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an-dyy&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
